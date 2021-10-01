@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RoutineLogin</string>
+    <string name="kakao_app_key">your_appkey</string>
+</resources>
